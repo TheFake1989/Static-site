@@ -1,1 +1,1 @@
-# Staic-site
+# Static-site
